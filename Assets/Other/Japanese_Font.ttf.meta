@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 79f40647dbc21764aa580ce487a768cb
+timeCreated: 1516018964
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SoukouMincho
+  fontNames:
+  - SoukouMincho
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

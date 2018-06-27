@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Donut
+  - Comet_Indicator
+  - Shield
+  - Crosshair
+  - Comet
+  - Projectile
+  - Background_Music
+  - Game_Over_Script
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Clouds
+  - Wall
+  - Tiles
+  - Player
+  - Donut
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2126510457
+    locked: 0
+  - name: Cloud
+    uniqueID: 2997560601
+    locked: 0
+  - name: Water
+    uniqueID: 2621753711
+    locked: 0
+  - name: Wall
+    uniqueID: 46819033
+    locked: 0
+  - name: PlatformFake
+    uniqueID: 1829290941
+    locked: 0
+  - name: Player
+    uniqueID: 3992733401
+    locked: 0
+  - name: Minimap
+    uniqueID: 761763409
+    locked: 0
